@@ -106,6 +106,8 @@ static void vUARTTask(void *pvParameters) {
  */
 int main(void)
 {
+	//Segundo Commit !
+
 	prvSetupHardware();
 
 	/* LED1 toggle thread */
